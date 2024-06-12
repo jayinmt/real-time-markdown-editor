@@ -1,0 +1,9 @@
+// app.component.html
+<div class="editor-container">
+  <div class="editor-pane">
+    <textarea [(ngModel)]="markdownText" placeholder="Enter Markdown text..."></textarea>
+  </div>
+  <div class="preview-pane">
+    <div [innerHTML]="previewHtml"></div>
+  </div>
+</div>
