@@ -21,7 +21,7 @@ A real-time markdown editor built with Angular that allows users to write Markdo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/real-time-markdown-editor.git
+git clone https://github.com/jayinmt/real-time-markdown-editor.git
 ```
 
 2. Navigate to the project directory:
